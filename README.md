@@ -11,3 +11,4 @@ Study the following topics:
 8. https://github.com/mohan696matlab/NASA-s-Turbo-Engine-Remaining-Useful-Life-prediction-using-machine-learning
 9. https://dmg.org/pmml/v4-4-1/GeneralRegression.html
 10.https://towardsdatascience.com/federated-learning-a-step-by-step-implementation-in-tensorflow-aac568283399
+11.https://blog.paperspace.com/federated-learning-with-keras/
