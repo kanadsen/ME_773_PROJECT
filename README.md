@@ -10,3 +10,4 @@ Study the following topics:
 6. https://blog.openmined.org/predictive-maintenance-of-turbofan-engines-using-federated-learning/
 7. https://www.kaggle.com/datasets/behrad3d/nasa-cmaps
 8. https://github.com/mohan696matlab/NASA-s-Turbo-Engine-Remaining-Useful-Life-prediction-using-machine-learning
+9. https://dmg.org/pmml/v4-4-1/GeneralRegression.html
