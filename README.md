@@ -12,3 +12,5 @@ Study the following topics:
 9. https://dmg.org/pmml/v4-4-1/GeneralRegression.html
 10.https://towardsdatascience.com/federated-learning-a-step-by-step-implementation-in-tensorflow-aac568283399
 11.https://blog.paperspace.com/federated-learning-with-keras/
+12. https://github.com/vaclavcadek/keras2pmml
+13. https://support.pega.com/discussion/creating-pmml-python-r-and-pega
