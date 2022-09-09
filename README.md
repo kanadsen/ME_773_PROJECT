@@ -14,3 +14,4 @@ Study the following topics:
 11.https://blog.paperspace.com/federated-learning-with-keras/
 12. https://github.com/vaclavcadek/keras2pmml
 13. https://support.pega.com/discussion/creating-pmml-python-r-and-pega
+14. https://machinelearningmastery.com/extra-trees-ensemble-with-python/
