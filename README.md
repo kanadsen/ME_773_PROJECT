@@ -15,3 +15,4 @@ Study the following topics:
 12. https://github.com/vaclavcadek/keras2pmml
 13. https://support.pega.com/discussion/creating-pmml-python-r-and-pega
 14. https://machinelearningmastery.com/extra-trees-ensemble-with-python/
+15. https://www.wrighters.io/parameters-jupyter-notebooks-with-papermill/
