@@ -1,5 +1,6 @@
 '''
 Packages to be imported in the entire program
+Installations required for packages 
 '''
 
 import tensorflow as tf
@@ -11,6 +12,7 @@ import seaborn as sns
 from sklearn.model_selection import train_test_split
 import sys
 from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
 import matplotlib.pyplot as plt
 import random

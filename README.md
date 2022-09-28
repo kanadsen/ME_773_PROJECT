@@ -16,3 +16,4 @@ Study the following topics:
 13. https://support.pega.com/discussion/creating-pmml-python-r-and-pega
 14. https://machinelearningmastery.com/extra-trees-ensemble-with-python/
 15. https://www.wrighters.io/parameters-jupyter-notebooks-with-papermill/
+16. https://stackabuse.com/reading-and-writing-lists-to-a-file-in-python/
