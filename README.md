@@ -1,5 +1,5 @@
 # ME-773-PROJECT
-INTEGRATED BLOCK CHAIN AND FEDARATED LEARNING
+Topic : Federated Learning for Predictive Maintainance
 
 Study the following topics:
 1. [matthiaslau / Turbofan-Federated-Learning-POC](https://github.com/matthiaslau/Turbofan-Federated-Learning-POC)  [STUDY THIS FIRST]
