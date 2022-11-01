@@ -1,6 +1,8 @@
 # ME-773-PROJECT
 Topic : Federated Learning for Predictive Maintainance
 
+How to start federated Learning;
+* Split the train and test set into two parts. One for central training  c
 Study the following topics:
 1. [matthiaslau / Turbofan-Federated-Learning-POC](https://github.com/matthiaslau/Turbofan-Federated-Learning-POC)  [STUDY THIS FIRST]
 2. https://github.com/MALLI7622/Federated-Blockchain-Anamoly-Detection
@@ -10,8 +12,8 @@ Study the following topics:
 7. https://www.kaggle.com/datasets/behrad3d/nasa-cmaps
 8. https://github.com/mohan696matlab/NASA-s-Turbo-Engine-Remaining-Useful-Life-prediction-using-machine-learning
 9. https://dmg.org/pmml/v4-4-1/GeneralRegression.html
-10.https://towardsdatascience.com/federated-learning-a-step-by-step-implementation-in-tensorflow-aac568283399
-11.https://blog.paperspace.com/federated-learning-with-keras/
+10. https://towardsdatascience.com/federated-learning-a-step-by-step-implementation-in-tensorflow-aac568283399
+11. https://blog.paperspace.com/federated-learning-with-keras/
 12. https://github.com/vaclavcadek/keras2pmml
 13. https://support.pega.com/discussion/creating-pmml-python-r-and-pega
 14. https://machinelearningmastery.com/extra-trees-ensemble-with-python/
