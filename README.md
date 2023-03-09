@@ -4,7 +4,7 @@ Topic : Federated Learning for Predictive Maintainance
 How to start federated Learning;
 * Split the train and test set into two parts. One for central training  c
 Study the following topics:
-1. [matthiaslau / Turbofan-Federated-Learning-POC](https://github.com/matthiaslau/Turbofan-Federated-Learning-POC)  [STUDY THIS FIRST]
+
 2. https://github.com/MALLI7622/Federated-Blockchain-Anamoly-Detection
 3. https://github.com/ashishpatel26/Predictive_Maintenance_using_Machine-Learning_Microsoft_Casestudy
 5. https://github.com/nevermined-io/fl-demo
